@@ -1,0 +1,32 @@
+body {
+    background-color: #eef2f5;
+    color: #333333;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #2c3e50;
+    font-size: 24px;
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+.label {
+    font-weight: bold;
+    color: #2980b9;
+}
+
+.teks-motto {
+    font-style: italic;
+}
+
+#kartu-biodata {
+    background-color: #ffffff;
+    width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 8px;
+}

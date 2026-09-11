@@ -1,0 +1,28 @@
+body {
+    background-color: burlywood;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    text-align: center;
+    color: darkslategray;
+}
+p{
+    color: deepskyblue;
+    font-size: small;
+}
+#biodata {
+    background-color: rgb(83, 51, 41);
+    padding: 25px;
+}
+.nama {
+    color: lightblue;
+}
+.kelas {
+    color: plum;
+}
+.moto {
+    text-align: center;
+    font-size: larger;
+    color: rgb(228, 186, 186);
+}
